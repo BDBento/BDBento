@@ -37,6 +37,6 @@ Here are some ideas to get you started:
     <img align="center" height="50" width="60" alt="debian" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 </div>
 
-![Snake animation](https://github.com/BDBento/BDBento/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BDBento/BDBento/blog/output/github-contribution-grid-snake.svg)
 
 
